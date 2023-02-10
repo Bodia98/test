@@ -1,1 +1,1 @@
-# test.js
+# goit-js-hw-06
